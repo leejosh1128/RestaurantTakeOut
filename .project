@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/restaurant.csv</name>
+			<type>1</type>
+			<location>C:/Users/jili001/Desktop/SEIS635/restaurant.csv</location>
+		</link>
+	</linkedResources>
 </projectDescription>
